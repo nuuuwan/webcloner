@@ -9,3 +9,4 @@ class TestCase(unittest.TestCase):
         wpc = WebPageCloner(os.path.join("data", "dmmc-lk"))
         wpc.combine_simple_markdown()
         self.assertTrue(os.path.exists(wpc.combined_md_path))
+        wpc.gen_site_map()
