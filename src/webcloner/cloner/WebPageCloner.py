@@ -51,14 +51,17 @@ class WebPageCloner:
                 "role": "system",
                 "content": "\n".join(
                     [
-                        "Generate a README containing the most ",
+                        "Generate a README containing ",
                         " useful information of the website.",
                         "Start with a short about section.",
-                        "Then, PRIORITIZE the links users most want,"
-                        " like contact, online services, other services,",
-                        " and information, at the top.",
+                        "Then, PRIORITIZE the links citizens most want,"
+                        " like contact info, and services.",
+                        " Other information can appear at the end.",
                         "",
                         "DO use markdown headings appropriately.",
+                        "DO add a disclaimer explaining that "
+                        " this is not the original site,"
+                        " and include a link to the original."
                         "DO NOT include any comments, or preambles.",
                         "DO NOT use begin and end quotes.",
                         "---",
