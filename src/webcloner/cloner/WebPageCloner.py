@@ -48,19 +48,24 @@ class WebPageCloner:
         md_content = File(self.combined_md_path).read()
         messages = [
             {
-                "role": "user",
+                "role": "system",
                 "content": "\n".join(
                     [
-                        md_content,
-                        "",
-                        "Generate a site map for the above content, as markdown, ",
-                        "using headings as appropriate.",
-                        "PRIORITIZE the links users are most likely to want.",
+                        "Generate a site map for the following content, ",
+                        " as markdown, using headings as appropriate.",
+                        "DO PRIORITIZE the links users are most likely to want,"
+                        " like contact, online services, other services,",
+                        " and information, at the top.",
                         "DO NOT include any comments, or preambles.",
                         "DO NOT use begin and end quotes.",
+                        "---",
                     ]
                 ),
-            }
+            },
+            {
+                "role": "user",
+                "content": md_content,
+            },
         ]
 
         response = client.chat.completions.create(
