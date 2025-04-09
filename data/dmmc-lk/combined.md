@@ -1,12 +1,12 @@
-# 1ed22e28
-Building Approvals | Dehiwala Mount Lavinia Municipal Council - Official Website
+# 0ae7a41b
+Citizenship Charter | Dehiwala Mount Lavinia Municipal Council - Official Website
 
 දෙහිවල ගල්කිස්ස මහ නගර සභාව
 தெஹிவளை கல்கிசை மாநகர சபை
 Dehiwala Mount Lavinia Municipal Council
-[සිංහළ](https://dmmc.lk/building-approvals/?lang=si)
-[EN](https://dmmc.lk/building-approvals/?lang=en)
-[தமிழ்](https://dmmc.lk/building-approvals/?lang=ta)
+[සිංහළ](https://dmmc.lk/citizenship-charter-2/?lang=si)
+[EN](https://dmmc.lk/citizenship-charter-2/?lang=en)
+[தமிழ்](https://dmmc.lk/citizenship-charter-2/?lang=ta)
 <
 /div>
 [Home](http://dmmc.lk/)
@@ -41,6 +41,34 @@ History
 [Citizenship Charter](https://dmmc.lk/citizenship-charter-2/)
 [Flowcharts](https://dmmc.lk/flowcharts/)
 [Information Officer](https://dmmc.lk/information-officer/)
+Quick Links
+Home
+Services
+Hon.Mayor
+The Council
+Procurement
+Information Centre
+Download
+Contact
+Contact us
+011-2738701 | 011-2738702 | 011-2738275
+011-2737510
+info@dmmc.lk
+join with us
+2016 - Dehiwala Mount Lavinia Municipal Council All Rights Reserved
+Web Solution By
+[Cyber Concepts](http://cyberconceptslk.com)
+# 1df6ba79
+Members | Dehiwala Mount Lavinia Municipal Council - Official Website
+[සිංහළ](https://dmmc.lk/category/members/?lang=si)
+[EN](https://dmmc.lk/category/members/?lang=en)
+[தமிழ்](https://dmmc.lk/category/members/?lang=ta)
+Council Members
+# 1ed22e28
+Building Approvals | Dehiwala Mount Lavinia Municipal Council - Official Website
+[සිංහළ](https://dmmc.lk/building-approvals/?lang=si)
+[EN](https://dmmc.lk/building-approvals/?lang=en)
+[தமிழ்](https://dmmc.lk/building-approvals/?lang=ta)
 [social welfare](https://dmmc.lk/social-welfare/)
 [(සිංහළ) ක්‍රීඩා දෙපාර්තමේන්තුව යටතේ දැනට පාලනය වන ක්‍රීඩාගාර හා ක්‍රීඩාංගණ](https://dmmc.lk/%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93%e0%b6%a9%e0%b7%8f-%e0%b6%af%e0%b7%99%e0%b6%b4%e0%b7%8f%e0%b6%bb%e0%b7%8a%e0%b6%ad%e0%b6%b8%e0%b7%9a%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b7%94%e0%b7%80-2/)
 [(සිංහළ) කායවර්ධන මධ්‍යස්ථානවල සාමාජිකත්වය ලබා දිම](https://dmmc.lk/%e0%b6%9a%e0%b7%8f%e0%b6%ba%e0%b7%80%e0%b6%bb%e0%b7%8a%e0%b6%b0%e0%b6%b1-%e0%b6%b8%e0%b6%b0%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b7%83%e0%b7%8a%e0%b6%ae%e0%b7%8f%e0%b6%b1%e0%b7%80%e0%b6%bd-%e0%b7%83-2/)
@@ -101,23 +129,6 @@ Inspection fee is Rs.339.67
 01.	Photocopy of approved block plan
 02.	Assessment tax paid receipt for the quarter
 03.	Draft of the suggested building
-Quick Links
-Home
-Services
-Hon.Mayor
-The Council
-Procurement
-Information Centre
-Download
-Contact
-Contact us
-011-2738701 | 011-2738702 | 011-2738275
-011-2737510
-info@dmmc.lk
-join with us
-2016 - Dehiwala Mount Lavinia Municipal Council All Rights Reserved
-Web Solution By
-[Cyber Concepts](http://cyberconceptslk.com)
 # 36d34d03
 (සිංහළ) ඩෙංගු මර්දන වැඩසටහන් | Dehiwala Mount Lavinia Municipal Council - Official Website
 [සිංහළ](https://dmmc.lk/%E0%B6%A9%E0%B7%99%E0%B6%82%E0%B6%9C%E0%B7%94-%E0%B6%B8%E0%B6%BB%E0%B7%8A%E0%B6%AF%E0%B6%B1-%E0%B7%80%E0%B7%90%E0%B6%A9%E0%B7%83%E0%B6%A7%E0%B7%84%E0%B6%B1%E0%B7%8A/?lang=si)
@@ -208,6 +219,11 @@ A set of tools specially prepared for this task, has been given to all the pre s
 Being children of parents who reside in the Dehiwala – Mount Lavinia Municipal Council limits.
 Completion of 3 years of age
 [Application for admission to pre schools](#)
+# 51361b2e
+Department of Administration | Dehiwala Mount Lavinia Municipal Council - Official Website
+[සිංහළ](https://dmmc.lk/department-of-administration/?lang=si)
+[EN](https://dmmc.lk/department-of-administration/?lang=en)
+[தமிழ்](https://dmmc.lk/department-of-administration/?lang=ta)
 # 6311967c
 Dehiwala Mount Lavinia Municipal Council - Official Website
 [සිංහළ](https://dmmc.lk/?lang=si)
@@ -254,6 +270,29 @@ A 10% discount has been extended until the month of February if the full assessm
 Facebook
 [Dehiwala Mount Lavinia Municipal Council](https://www.facebook.com/dmmcsl)
 latest From Gallery
+# 8013a46b
+Department of Fire | Dehiwala Mount Lavinia Municipal Council - Official Website
+[සිංහළ](https://dmmc.lk/department-of-fire/?lang=si)
+[EN](https://dmmc.lk/department-of-fire/?lang=en)
+[தமிழ்](https://dmmc.lk/department-of-fire/?lang=ta)
+Fire Department
+[Fire Department](#)
+The main objective of fire department is to rescue and save the lives and properties of public under the rules and regulations of Fire department who lives within the municipality. Therefore this unit was established with said objective in year 2000 with a staff of an officer in charge, two sectional heads, mechanical fire force of 3 persons, fire force comprising 19 person, a fire truck. Currently it comprises with 49 staff, two fire trucks, and three water bowsers, two ambulances, snorkel truck.
+[Services provided by Fire Department](#)
+Prevent fire accidents within the authorized area, rescue and save lives and other humanitarian activities
+Prove free ambulance services in an emergency fire accidents
+Rescue people when natural disasters occur
+Provide VIP security
+Examine businesses under  hazardous business category and provide fire report
+Provide fire protection instructions and services for building plans within and outside the municipality
+Conduct training programs for schools, hospitals, education institutions and other institutions.
+[Organization structure](#)
+[Duties](#)
+Engage in firefighting, rescue and other humanitarian activities
+[Contacts](#)
+Emergency	:- 0112-714444
+Officer –in- Charge- 011 2 734225
+Office- 011 2 718188
 # 983af010
 (සිංහළ) කායවර්ධන මධ්‍යස්ථානවල සාමාජිකත්වය ලබා දිම | Dehiwala Mount Lavinia Municipal Council - Official Website
 [සිංහළ](https://dmmc.lk/%E0%B6%9A%E0%B7%8F%E0%B6%BA%E0%B7%80%E0%B6%BB%E0%B7%8A%E0%B6%B0%E0%B6%B1-%E0%B6%B8%E0%B6%B0%E0%B7%8A%E2%80%8D%E0%B6%BA%E0%B7%83%E0%B7%8A%E0%B6%AE%E0%B7%8F%E0%B6%B1%E0%B7%80%E0%B6%BD-%E0%B7%83-2/?lang=si)
@@ -312,6 +351,80 @@ Dehiwala Mount lavinia municipal council
 [View more](https://dmmc.lk/%e0%b6%a9%e0%b7%99%e0%b6%82%e0%b6%9c%e0%b7%94-%e0%b6%b8%e0%b6%bb%e0%b7%8a%e0%b6%af%e0%b6%b1-%e0%b7%80%e0%b7%90%e0%b6%a9%e0%b7%83%e0%b6%a7%e0%b7%84%e0%b6%b1%e0%b7%8a/?lang=ta)
 →
 Sorry this entry is only available in english
+# b08c0558
+Department of Electrical | Dehiwala Mount Lavinia Municipal Council - Official Website
+[සිංහළ](https://dmmc.lk/department-of-electrical/?lang=si)
+[EN](https://dmmc.lk/department-of-electrical/?lang=en)
+[தமிழ்](https://dmmc.lk/department-of-electrical/?lang=ta)
+Department of Electricity
+[Department of Electricity](#)
+The department of electricity which was under control of DMMC four decades ago was acquired by Sri Lanka electricity board with the electricity dissemination system of the department, the electrical engineer, electrical superintendents and staff.
+After 1979, the main duties of electricity department in DMMC were maintaining the street light system and maintain and repair the electricity supply of buildings. This service is rendered under the direct supervision of electrical superintendent and other staff comprising 45 members.
+[Services provided by the department](#)
+Maintain street lights as a utility service and engage in all electrical functions in DMMC buildings
+Duties
+Maintenance of street light is done under three electrical mechanics and other labors with due responsibility. To ease the task it has divided in to three zones as kalubowila, Mt. Lavinia, and Ratmalana
+Apart from the day to day activities, this department engages in providing electricity services for religious festivals conducted with the patronage of government.
+Street light operations are daily done by a staff including 18 members
+Obtain the complaints which receive from the employees and public on inactive street lights and work on that
+All the electrical maintenance activities and payment of monthly bills
+[Contacts:-](#)
+K.K Nimalasooriya (Electrical Superintendent) – office -0112 727780-Mobile- 0714003647
+D.P.D Perera- Technical officer (electricity) – office -0112 727780-Mobile- 0718243419
+# b85a6a5e
+Department of Finance | Dehiwala Mount Lavinia Municipal Council - Official Website
+[සිංහළ](https://dmmc.lk/department-of-finance/?lang=si)
+[EN](https://dmmc.lk/department-of-finance/?lang=en)
+[தமிழ்](https://dmmc.lk/department-of-finance/?lang=ta)
+this is department of finance
+# badd8763
+Department of Engineers | Dehiwala Mount Lavinia Municipal Council - Official Website
+[සිංහළ](https://dmmc.lk/department-of-engineers/?lang=si)
+[EN](https://dmmc.lk/department-of-engineers/?lang=en)
+[தமிழ்](https://dmmc.lk/department-of-engineers/?lang=ta)
+[Department of Engineering](#)
+Planning Branch
+Planning branch engages in
+1.	Issuance of street line certificates
+2.	Approval of block plans
+3.	Issuance of clearance certificates prior to a development
+4.	Approval of building applications
+5.	Issuance of conformity certificates
+6.	Take legal actions against unauthorized constructions
+Planning branch is located in right of 2nd floor.
+Telephone- 011 2738703
+Mr. S Ranjith- 071- 4948806
+[Planning Engineer](#)
+Planning Engineer has the authority to issue street lines, building line, and f block plans, take actions against unauthorized constructions. Planning engineer engages in providing instructions and issuing of letters and documents to solve the disputes regarding buildings, block plans, unauthorized lands and conformity certificates.
+Technical Officer
+Four technical officers are assigned to obtain the technical officer’s report on buildings, block plans and unauthorized constructions. For that it has divided in to four divisions as Dehiwala, Mt. Lavinia, Kalubowila and Ratmalana.
+Draftsmen
+There are two draftsmen. Draftsmen are engaging in marking street lines, building lines and other documentation tasks
+Management Assistant
+There are 5 management Assistants working there including the chief management assistant. They engage in providing guidelines and instructions to solve the matters raised by public and issuance of receipts for payments such as inspection fee, conformity certificates etc.
+Staff comprises 8 technical officers, 2 draftsmen and 5 Management Assistant. Planning Engineer is the Head of the Department
+Duties and responsibilities includes providing of approval for buildings and block plans, issuance of street line certificates, conformity certificates, act for unauthorized constructions, extension of period for buildings etc.
+Building applications and block plan applications can be obtained from our department after making relevant payments
+Management Assistant shall open a file for the applications accepted by the draftsman
+After getting the reports from draftsmen and TO s , the file will be submitted to the planning committee of the Municipal Council and Management Assistants may work on documentation activities
+The chief of issuing street line, building line certificate is Mr. Dinesh Kumar, the planning Engineer and Management Assistants and draftsmen may assist him
+[Services](#)
+1. Issuance of street line certificate is a major service rendered by our department and after paying Rs. 284.60, application can be obtained
+2. Block plans and building applications can be obtained after paying Rs.236.60 and Rs. 354 respectively. After submitting the application , after paying based on the floor basis, after obtaining the TO’s , draftsmen’s reports , the file will be forwarded to the planning committee and in there, it will be decided on granting of approval or dismissal of the application
+3. To obtain the conformity certificate, an application should be submitted and after the TO’s report, approval shall be granted after referring to the planning committee
+4. A letter should be submitted for the extension of time period. Should pay extension fee
+5. A letter should be produced to inform regarding unauthorized constructions and after obtaining the TO report, the actions to be taken shall be decided by referring to the planning committee or , through discussion or legally
+6. Clearance certificate obtained prior to a development can be obtained after paying Rs. 339.66. Through this, you can get instructions and data to draft the plans
+Planning Engineer- 0112 738703
+The municipality containing 29 wards has been divided in to 4 divisions as Mt. Lavinia, Ratmalana, Kalubowila, Dehiwala to ease the administrative task. For that, four Management Assistants and eight TO s are assigned.
+These officers are engaging in issuance of conformity certificates, approving building /block plans, extension of period and working on unauthorized constructions after the field visit.
+Telephone no
+Planning Engineer (Mr. Dinesh Kumar)
+011 2 738701/314
+011 2 738702/3
+071-4948806
+[Unauthorized constructions.](#)
+We receive complaints on unauthorized constructions in all four divisions and TO of relevant area shall conduct a field inspection. After getting the TO s field inspection, steps will be taken to remove the construction or take legal actions. A letter should be produced to inform regarding unauthorized constructions
 # d480c0d1
 Business Tax/ License | Dehiwala Mount Lavinia Municipal Council - Official Website
 [සිංහළ](https://dmmc.lk/business-tax-license/?lang=si)
@@ -347,6 +460,14 @@ Rs. 3000
 Exceeding Rs. 2500
 Rs. 5000
 NBT, VAT and stamp dues are included in trade license fee and only the toll is charged for business tax
+# de42b625
+Commissioner | Dehiwala Mount Lavinia Municipal Council - Official Website
+[සිංහළ](https://dmmc.lk/commissioner/?lang=si)
+[EN](https://dmmc.lk/commissioner/?lang=en)
+[தமிழ்](https://dmmc.lk/commissioner/?lang=ta)
+Mr. M.M.C.K.K.Manapperuma
+Office – 011-2738701,
+Email –
 # e22ea0df
 [Home](http://dmmc.lk/?lang=si)
 [Services.](https://dmmc.lk/category/services/?lang=si)
@@ -423,3 +544,26 @@ NBT, VAT and stamp dues are included in trade license fee and only the toll is c
 අප අමතන්න
 අප සමග එකතු වන්න
 # f4c64f9f
+# f7d96b04
+contact | Dehiwala Mount Lavinia Municipal Council - Official Website
+[සිංහළ](https://dmmc.lk/contact/?lang=si)
+[EN](https://dmmc.lk/contact/?lang=en)
+[தமிழ்](https://dmmc.lk/contact/?lang=ta)
+Simply send us message
+Name
+E-mail
+Subject
+Message
+dehiwalamcoffice@gmail.com
+General Telephone Numbers
+011-2738701
+011-2738702
+011-2738275
+Fax
+Public Complaints
+011-7666555
+# fdbb99a7
+Services | Dehiwala Mount Lavinia Municipal Council - Official Website
+[සිංහළ](https://dmmc.lk/category/services/?lang=si)
+[EN](https://dmmc.lk/category/services/?lang=en)
+[தமிழ்](https://dmmc.lk/category/services/?lang=ta)

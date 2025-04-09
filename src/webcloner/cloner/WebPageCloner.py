@@ -16,9 +16,13 @@ class WebPageCloner:
 
     def combine_simple_markdown(self):
         all_md_lines = []
-        for data_dir in os.listdir(self.data_domain_dir):
+        data_original_dir = os.path.join(
+            self.data_domain_dir,
+            "original",
+        )
+        for data_dir in os.listdir(data_original_dir):
             simple_md_path = os.path.join(
-                self.data_domain_dir, data_dir, "simple.md"
+                data_original_dir, data_dir, "simple.md"
             )
             if not os.path.exists(simple_md_path):
                 continue
@@ -49,8 +53,11 @@ class WebPageCloner:
                     [
                         md_content,
                         "",
-                        "Generate a site map for the above content.",
+                        "Generate a site map for the above content, as markdown, ",
+                        "using headings as appropriate.",
+                        "PRIORITIZE the links users are most likely to want.",
                         "DO NOT include any comments, or preambles.",
+                        "DO NOT use begin and end quotes.",
                     ]
                 ),
             }

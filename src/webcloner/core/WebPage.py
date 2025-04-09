@@ -30,7 +30,7 @@ class WebPage:
 
     @property
     def data_dir(self) -> str:
-        data_dir = os.path.join("data", self.domain, self.hash[:8])
+        data_dir = os.path.join("data", self.domain, "original", self.hash[:8])
         if not os.path.exists(data_dir):
             os.makedirs(data_dir)
         return data_dir
@@ -131,9 +131,7 @@ class WebPage:
 
     @property
     def link_list(self):
-        soup = BeautifulSoup(
-            File(self.reduced_html_path).read(), "html.parser"
-        )
+        soup = BeautifulSoup(File(self.reduced_html_path).read(), "html.parser")
         links = set()
         for a_tag in soup.find_all("a", href=True):
             link = a_tag["href"]
