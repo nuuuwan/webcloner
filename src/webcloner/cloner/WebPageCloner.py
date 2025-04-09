@@ -38,8 +38,8 @@ class WebPageCloner:
         log.info(f"Wrote {self.combined_md_path} ({size}B)")
 
     @property
-    def site_map_path(self):
-        return os.path.join(self.data_domain_dir, "site_map.md")
+    def readme_path(self):
+        return os.path.join(self.data_domain_dir, "README.md")
 
     def gen_site_map(self):
 
@@ -51,7 +51,7 @@ class WebPageCloner:
                 "role": "system",
                 "content": "\n".join(
                     [
-                        "Generate a site map for the following content, ",
+                        "Generate a README for the following webpage content, ",
                         " as markdown, using headings as appropriate.",
                         "DO PRIORITIZE the links users are most likely to want,"
                         " like contact, online services, other services,",
@@ -74,6 +74,6 @@ class WebPageCloner:
         )
 
         site_map = response.choices[0].message.content.strip()
-        File(self.site_map_path).write(site_map)
-        size = os.path.getsize(self.site_map_path)
-        log.info(f"Wrote {self.site_map_path} ({size}B)")
+        File(self.readme_path).write(site_map)
+        size = os.path.getsize(self.readme_path)
+        log.info(f"Wrote {self.readme_path} ({size}B)")
