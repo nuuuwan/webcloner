@@ -22,11 +22,15 @@ class WebPage:
     @property
     def hash(self) -> str:
         SALT = "webcloner-v1"
-        return Hash.md5(self.url + SALT)[:4]
+        return Hash.md5(self.url + SALT)
+
+    @property
+    def domain(self) -> str:
+        return self.url.split("//")[-1].split("/")[0].replace(".", "-")
 
     @property
     def data_dir(self) -> str:
-        data_dir = os.path.join("data", self.hash)
+        data_dir = os.path.join("data", self.domain, self.hash[:8])
         if not os.path.exists(data_dir):
             os.makedirs(data_dir)
         return data_dir
@@ -124,3 +128,15 @@ class WebPage:
         File(self.simple_md_path).write(markdown_text)
         size = os.path.getsize(self.simple_md_path)
         log.info(f"Wrote {self.simple_md_path} ({size}B)")
+
+    @property
+    def link_list(self):
+        soup = BeautifulSoup(
+            File(self.reduced_html_path).read(), "html.parser"
+        )
+        links = set()
+        for a_tag in soup.find_all("a", href=True):
+            link = a_tag["href"]
+            if link.startswith("http"):
+                links.add(link)
+        return list(sorted(links))
